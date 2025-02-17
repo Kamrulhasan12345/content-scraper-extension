@@ -1,0 +1,20 @@
+{
+	"manifest_version": 3,
+	"name": "Railway Automata",
+	"version": "1.0",
+	"description": "Automates tasks on specific website",
+	"permissions": ["tabs", "scripting", "activeTab"],
+	"host_permissions": ["https://eticket.railway.gov.bd/*"],
+
+	"action": {
+		"default_popup": "popup.html"
+	},
+	"content_scripts": [
+		{
+			"matches": ["https://eticket.railway.gov.bd/*"],
+			"js": ["content.js"]
+		}
+	],
+	"author": "Mohammad Kamrul Hasan",
+	"homepage_url": "https://www.example.com"
+}

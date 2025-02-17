@@ -1,0 +1,3048 @@
+{
+    "data": {
+        "seatLayout": [
+            {
+                "floor_name": "GA",
+                "seat_floor": 0,
+                "seat_type": 1,
+                "fare_type_id": 1,
+                "seat_fare_type": "Economy",
+                "seat_availability": true,
+                "seat_fare": "755.00",
+                "layout": [
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-1",
+                            "ticket_id": 535641384,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-2",
+                            "ticket_id": 535641385,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-3",
+                            "ticket_id": 535641386,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641387,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-4",
+                            "ticket_id": 535641388,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-5",
+                            "ticket_id": 535641389,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-6",
+                            "ticket_id": 535641390,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-7",
+                            "ticket_id": 535641391,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-8",
+                            "ticket_id": 535641392,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641393,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-9",
+                            "ticket_id": 535641394,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-10",
+                            "ticket_id": 535641395,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-11",
+                            "ticket_id": 535641396,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-12",
+                            "ticket_id": 535641397,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-13",
+                            "ticket_id": 535641398,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641399,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-14",
+                            "ticket_id": 535641400,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-15",
+                            "ticket_id": 535641401,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-16",
+                            "ticket_id": 535641402,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-17",
+                            "ticket_id": 535641403,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-18",
+                            "ticket_id": 535641404,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641405,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-19",
+                            "ticket_id": 535641406,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-20",
+                            "ticket_id": 535641407,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-21",
+                            "ticket_id": 535641408,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-22",
+                            "ticket_id": 535641409,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-23",
+                            "ticket_id": 535641410,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641411,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-24",
+                            "ticket_id": 535641412,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-25",
+                            "ticket_id": 535641413,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-26",
+                            "ticket_id": 535641414,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-27",
+                            "ticket_id": 535641415,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-28",
+                            "ticket_id": 535641416,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641417,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-29",
+                            "ticket_id": 535641418,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-30",
+                            "ticket_id": 535641419,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-31",
+                            "ticket_id": 535641420,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-32",
+                            "ticket_id": 535641421,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-33",
+                            "ticket_id": 535641422,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641423,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-34",
+                            "ticket_id": 535641424,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-35",
+                            "ticket_id": 535641425,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-36",
+                            "ticket_id": 535641426,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-37",
+                            "ticket_id": 535641427,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-38",
+                            "ticket_id": 535641428,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641429,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-39",
+                            "ticket_id": 535641430,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-40",
+                            "ticket_id": 535641431,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641432,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641433,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641434,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641435,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641436,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641437,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-41",
+                            "ticket_id": 535641438,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-42",
+                            "ticket_id": 535641439,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-43",
+                            "ticket_id": 535641440,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641441,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-44",
+                            "ticket_id": 535641442,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-45",
+                            "ticket_id": 535641443,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-46",
+                            "ticket_id": 535641444,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-47",
+                            "ticket_id": 535641445,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-48",
+                            "ticket_id": 535641446,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641447,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-49",
+                            "ticket_id": 535641448,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-50",
+                            "ticket_id": 535641449,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-51",
+                            "ticket_id": 535641450,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-52",
+                            "ticket_id": 535641451,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-53",
+                            "ticket_id": 535641452,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641453,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-54",
+                            "ticket_id": 535641454,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-55",
+                            "ticket_id": 535641455,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-56",
+                            "ticket_id": 535641456,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-57",
+                            "ticket_id": 535641457,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-58",
+                            "ticket_id": 535641458,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641459,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-59",
+                            "ticket_id": 535641460,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-60",
+                            "ticket_id": 535641461,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-61",
+                            "ticket_id": 535641462,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-62",
+                            "ticket_id": 535641463,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-63",
+                            "ticket_id": 535641464,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641465,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-64",
+                            "ticket_id": 535641466,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-65",
+                            "ticket_id": 535641467,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-66",
+                            "ticket_id": 535641468,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-67",
+                            "ticket_id": 535641469,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-68",
+                            "ticket_id": 535641470,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641471,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-69",
+                            "ticket_id": 535641472,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-70",
+                            "ticket_id": 535641473,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-71",
+                            "ticket_id": 535641474,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-72",
+                            "ticket_id": 535641475,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-73",
+                            "ticket_id": 535641476,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641477,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GA-74",
+                            "ticket_id": 535641478,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-75",
+                            "ticket_id": 535641479,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-76",
+                            "ticket_id": 535641480,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-77",
+                            "ticket_id": 535641481,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GA-78",
+                            "ticket_id": 535641482,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641483,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 2,
+                            "seat_number": "GA-79",
+                            "ticket_id": 535641484,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 2,
+                            "seat_number": "GA-80",
+                            "ticket_id": 535641485,
+                            "ticket_type": 1
+                        }
+                    ]
+                ]
+            },
+            {
+                "floor_name": "GHA",
+                "seat_floor": 1,
+                "seat_type": 1,
+                "fare_type_id": 1,
+                "seat_fare_type": "Economy",
+                "seat_availability": true,
+                "seat_fare": "755.00",
+                "layout": [
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-1",
+                            "ticket_id": 535641486,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-2",
+                            "ticket_id": 535641487,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-3",
+                            "ticket_id": 535641488,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641489,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-4",
+                            "ticket_id": 535641490,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-5",
+                            "ticket_id": 535641491,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-6",
+                            "ticket_id": 535641492,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-7",
+                            "ticket_id": 535641493,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-8",
+                            "ticket_id": 535641494,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641495,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-9",
+                            "ticket_id": 535641496,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-10",
+                            "ticket_id": 535641497,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-11",
+                            "ticket_id": 535641498,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-12",
+                            "ticket_id": 535641499,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-13",
+                            "ticket_id": 535641500,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641501,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-14",
+                            "ticket_id": 535641502,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-15",
+                            "ticket_id": 535641503,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-16",
+                            "ticket_id": 535641504,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-17",
+                            "ticket_id": 535641505,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-18",
+                            "ticket_id": 535641506,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641507,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-19",
+                            "ticket_id": 535641508,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-20",
+                            "ticket_id": 535641509,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-21",
+                            "ticket_id": 535641510,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-22",
+                            "ticket_id": 535641511,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-23",
+                            "ticket_id": 535641512,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641513,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-24",
+                            "ticket_id": 535641514,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-25",
+                            "ticket_id": 535641515,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-26",
+                            "ticket_id": 535641516,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-27",
+                            "ticket_id": 535641517,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-28",
+                            "ticket_id": 535641518,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641519,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-29",
+                            "ticket_id": 535641520,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-30",
+                            "ticket_id": 535641521,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-31",
+                            "ticket_id": 535641522,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-32",
+                            "ticket_id": 535641523,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-33",
+                            "ticket_id": 535641524,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641525,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-34",
+                            "ticket_id": 535641526,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-35",
+                            "ticket_id": 535641527,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-36",
+                            "ticket_id": 535641528,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-37",
+                            "ticket_id": 535641529,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 1,
+                            "seat_number": "GHA-38",
+                            "ticket_id": 535641530,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641531,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-39",
+                            "ticket_id": 535641532,
+                            "ticket_type": 1
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-40",
+                            "ticket_id": 535641533,
+                            "ticket_type": 1
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641534,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641535,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641536,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641537,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641538,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641539,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-41",
+                            "ticket_id": 535641540,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-42",
+                            "ticket_id": 535641541,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-43",
+                            "ticket_id": 535641542,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641543,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-44",
+                            "ticket_id": 535641544,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-45",
+                            "ticket_id": 535641545,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-46",
+                            "ticket_id": 535641546,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-47",
+                            "ticket_id": 535641547,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-48",
+                            "ticket_id": 535641548,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641549,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-49",
+                            "ticket_id": 535641550,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-50",
+                            "ticket_id": 535641551,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-51",
+                            "ticket_id": 535641552,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-52",
+                            "ticket_id": 535641553,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-53",
+                            "ticket_id": 535641554,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641555,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-54",
+                            "ticket_id": 535641556,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-55",
+                            "ticket_id": 535641557,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-56",
+                            "ticket_id": 535641558,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-57",
+                            "ticket_id": 535641559,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-58",
+                            "ticket_id": 535641560,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641561,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-59",
+                            "ticket_id": 535641562,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-60",
+                            "ticket_id": 535641563,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-61",
+                            "ticket_id": 535641564,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-62",
+                            "ticket_id": 535641565,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-63",
+                            "ticket_id": 535641566,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641567,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-64",
+                            "ticket_id": 535641568,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-65",
+                            "ticket_id": 535641569,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-66",
+                            "ticket_id": 535641570,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-67",
+                            "ticket_id": 535641571,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-68",
+                            "ticket_id": 535641572,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641573,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-69",
+                            "ticket_id": 535641574,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-70",
+                            "ticket_id": 535641575,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-71",
+                            "ticket_id": 535641576,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-72",
+                            "ticket_id": 535641577,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-73",
+                            "ticket_id": 535641578,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641579,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-74",
+                            "ticket_id": 535641580,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-75",
+                            "ticket_id": 535641581,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-76",
+                            "ticket_id": 535641582,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-77",
+                            "ticket_id": 535641583,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-78",
+                            "ticket_id": 535641584,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641585,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-79",
+                            "ticket_id": 535641586,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "GHA-80",
+                            "ticket_id": 535641587,
+                            "ticket_type": 0
+                        }
+                    ]
+                ]
+            },
+            {
+                "floor_name": "CHA",
+                "seat_floor": 2,
+                "seat_type": 1,
+                "fare_type_id": 1,
+                "seat_fare_type": "Economy",
+                "seat_availability": false,
+                "seat_fare": "755.00",
+                "layout": [
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-1",
+                            "ticket_id": 535641588,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-2",
+                            "ticket_id": 535641589,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-3",
+                            "ticket_id": 535641590,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641591,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-4",
+                            "ticket_id": 535641592,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-5",
+                            "ticket_id": 535641593,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-6",
+                            "ticket_id": 535641594,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-7",
+                            "ticket_id": 535641595,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-8",
+                            "ticket_id": 535641596,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641597,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-9",
+                            "ticket_id": 535641598,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-10",
+                            "ticket_id": 535641599,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-11",
+                            "ticket_id": 535641600,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-12",
+                            "ticket_id": 535641601,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-13",
+                            "ticket_id": 535641602,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641603,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-14",
+                            "ticket_id": 535641604,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-15",
+                            "ticket_id": 535641605,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-16",
+                            "ticket_id": 535641606,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-17",
+                            "ticket_id": 535641607,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-18",
+                            "ticket_id": 535641608,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641609,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-19",
+                            "ticket_id": 535641610,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-20",
+                            "ticket_id": 535641611,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-21",
+                            "ticket_id": 535641612,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-22",
+                            "ticket_id": 535641613,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-23",
+                            "ticket_id": 535641614,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641615,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-24",
+                            "ticket_id": 535641616,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-25",
+                            "ticket_id": 535641617,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-26",
+                            "ticket_id": 535641618,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-27",
+                            "ticket_id": 535641619,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-28",
+                            "ticket_id": 535641620,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641621,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-29",
+                            "ticket_id": 535641622,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-30",
+                            "ticket_id": 535641623,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-31",
+                            "ticket_id": 535641624,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-32",
+                            "ticket_id": 535641625,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-33",
+                            "ticket_id": 535641626,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641627,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-34",
+                            "ticket_id": 535641628,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-35",
+                            "ticket_id": 535641629,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-36",
+                            "ticket_id": 535641630,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-37",
+                            "ticket_id": 535641631,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-38",
+                            "ticket_id": 535641632,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641633,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-39",
+                            "ticket_id": 535641634,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-40",
+                            "ticket_id": 535641635,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641636,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641637,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641638,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641639,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641640,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641641,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-41",
+                            "ticket_id": 535641642,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-42",
+                            "ticket_id": 535641643,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-43",
+                            "ticket_id": 535641644,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641645,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-44",
+                            "ticket_id": 535641646,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-45",
+                            "ticket_id": 535641647,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-46",
+                            "ticket_id": 535641648,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-47",
+                            "ticket_id": 535641649,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-48",
+                            "ticket_id": 535641650,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641651,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-49",
+                            "ticket_id": 535641652,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-50",
+                            "ticket_id": 535641653,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-51",
+                            "ticket_id": 535641654,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-52",
+                            "ticket_id": 535641655,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-53",
+                            "ticket_id": 535641656,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641657,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-54",
+                            "ticket_id": 535641658,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-55",
+                            "ticket_id": 535641659,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-56",
+                            "ticket_id": 535641660,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-57",
+                            "ticket_id": 535641661,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-58",
+                            "ticket_id": 535641662,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641663,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-59",
+                            "ticket_id": 535641664,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-60",
+                            "ticket_id": 535641665,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-61",
+                            "ticket_id": 535641666,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-62",
+                            "ticket_id": 535641667,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-63",
+                            "ticket_id": 535641668,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641669,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-64",
+                            "ticket_id": 535641670,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-65",
+                            "ticket_id": 535641671,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-66",
+                            "ticket_id": 535641672,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-67",
+                            "ticket_id": 535641673,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-68",
+                            "ticket_id": 535641674,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641675,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-69",
+                            "ticket_id": 535641676,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-70",
+                            "ticket_id": 535641677,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-71",
+                            "ticket_id": 535641678,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-72",
+                            "ticket_id": 535641679,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-73",
+                            "ticket_id": 535641680,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641681,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-74",
+                            "ticket_id": 535641682,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-75",
+                            "ticket_id": 535641683,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-76",
+                            "ticket_id": 535641684,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-77",
+                            "ticket_id": 535641685,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-78",
+                            "ticket_id": 535641686,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641687,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-79",
+                            "ticket_id": 535641688,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "CHA-80",
+                            "ticket_id": 535641689,
+                            "ticket_type": 0
+                        }
+                    ]
+                ]
+            },
+            {
+                "floor_name": "SCHA",
+                "seat_floor": 3,
+                "seat_type": 1,
+                "fare_type_id": 1,
+                "seat_fare_type": "Economy",
+                "seat_availability": false,
+                "seat_fare": "755.00",
+                "layout": [
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-1",
+                            "ticket_id": 535641690,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-2",
+                            "ticket_id": 535641691,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-3",
+                            "ticket_id": 535641692,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641693,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-4",
+                            "ticket_id": 535641694,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-5",
+                            "ticket_id": 535641695,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-6",
+                            "ticket_id": 535641696,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-7",
+                            "ticket_id": 535641697,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-8",
+                            "ticket_id": 535641698,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641699,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-9",
+                            "ticket_id": 535641700,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-10",
+                            "ticket_id": 535641701,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-11",
+                            "ticket_id": 535641702,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-12",
+                            "ticket_id": 535641703,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-13",
+                            "ticket_id": 535641704,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641705,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-14",
+                            "ticket_id": 535641706,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-15",
+                            "ticket_id": 535641707,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-16",
+                            "ticket_id": 535641708,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-17",
+                            "ticket_id": 535641709,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-18",
+                            "ticket_id": 535641710,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641711,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-19",
+                            "ticket_id": 535641712,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-20",
+                            "ticket_id": 535641713,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-21",
+                            "ticket_id": 535641714,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-22",
+                            "ticket_id": 535641715,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-23",
+                            "ticket_id": 535641716,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641717,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-24",
+                            "ticket_id": 535641718,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-25",
+                            "ticket_id": 535641719,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-26",
+                            "ticket_id": 535641720,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-27",
+                            "ticket_id": 535641721,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-28",
+                            "ticket_id": 535641722,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641723,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-29",
+                            "ticket_id": 535641724,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-30",
+                            "ticket_id": 535641725,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-31",
+                            "ticket_id": 535641726,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-32",
+                            "ticket_id": 535641727,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-33",
+                            "ticket_id": 535641728,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641729,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-34",
+                            "ticket_id": 535641730,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-35",
+                            "ticket_id": 535641731,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-36",
+                            "ticket_id": 535641732,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-37",
+                            "ticket_id": 535641733,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-38",
+                            "ticket_id": 535641734,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641735,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-39",
+                            "ticket_id": 535641736,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-40",
+                            "ticket_id": 535641737,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641738,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641739,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641740,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641741,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641742,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641743,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-41",
+                            "ticket_id": 535641744,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-42",
+                            "ticket_id": 535641745,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-43",
+                            "ticket_id": 535641746,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641747,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-44",
+                            "ticket_id": 535641748,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-45",
+                            "ticket_id": 535641749,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-46",
+                            "ticket_id": 535641750,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-47",
+                            "ticket_id": 535641751,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-48",
+                            "ticket_id": 535641752,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641753,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-49",
+                            "ticket_id": 535641754,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-50",
+                            "ticket_id": 535641755,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-51",
+                            "ticket_id": 535641756,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-52",
+                            "ticket_id": 535641757,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-53",
+                            "ticket_id": 535641758,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641759,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-54",
+                            "ticket_id": 535641760,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-55",
+                            "ticket_id": 535641761,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-56",
+                            "ticket_id": 535641762,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-57",
+                            "ticket_id": 535641763,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-58",
+                            "ticket_id": 535641764,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641765,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-59",
+                            "ticket_id": 535641766,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-60",
+                            "ticket_id": 535641767,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-61",
+                            "ticket_id": 535641768,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-62",
+                            "ticket_id": 535641769,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-63",
+                            "ticket_id": 535641770,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641771,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-64",
+                            "ticket_id": 535641772,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-65",
+                            "ticket_id": 535641773,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-66",
+                            "ticket_id": 535641774,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-67",
+                            "ticket_id": 535641775,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-68",
+                            "ticket_id": 535641776,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641777,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-69",
+                            "ticket_id": 535641778,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-70",
+                            "ticket_id": 535641779,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-71",
+                            "ticket_id": 535641780,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-72",
+                            "ticket_id": 535641781,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-73",
+                            "ticket_id": 535641782,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641783,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-74",
+                            "ticket_id": 535641784,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-75",
+                            "ticket_id": 535641785,
+                            "ticket_type": 0
+                        }
+                    ],
+                    [
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-76",
+                            "ticket_id": 535641786,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-77",
+                            "ticket_id": 535641787,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-78",
+                            "ticket_id": 535641788,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "",
+                            "ticket_id": 535641789,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-79",
+                            "ticket_id": 535641790,
+                            "ticket_type": 0
+                        },
+                        {
+                            "isHidden": false,
+                            "seat_availability": 0,
+                            "seat_number": "SCHA-80",
+                            "ticket_id": 535641791,
+                            "ticket_type": 0
+                        }
+                    ]
+                ]
+            }
+        ],
+        "totalSeats": 408,
+        "reservationFee": 30,
+        "reservationFeeUnit": "%"
+    },
+    "extra": {
+        "hash": "CF4A94AB5E1632988839DF7ED20985D0"
+    }
+}
