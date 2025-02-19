@@ -1,6 +1,6 @@
 {
 	"manifest_version": 3,
-	"name": "Railway Automata",
+	"name": "Railway Content Scraper",
 	"version": "1.0",
 	"description": "Automates tasks on specific website",
 	"permissions": ["tabs", "scripting", "activeTab"],
@@ -15,6 +15,5 @@
 			"js": ["content.js"]
 		}
 	],
-	"author": "Mohammad Kamrul Hasan",
-	"homepage_url": "https://www.example.com"
+	"author": "Mohammad Kamrul Hasan"
 }

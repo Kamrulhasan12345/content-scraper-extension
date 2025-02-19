@@ -26,10 +26,6 @@ document.addEventListener("DOMContentLoaded", () => {
         activeTab.id,
         { action: "simulateClick" },
         (response) => {
-          if (chrome.runtime.lastError) {
-            console.error(chrome.runtime.lastError);
-            return;
-          }
           console.log("Click simulated:", response.success);
         }
       );
